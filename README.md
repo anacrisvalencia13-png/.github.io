@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Feliz San Valentín</title>
   <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
